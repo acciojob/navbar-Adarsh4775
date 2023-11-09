@@ -2,12 +2,15 @@
 ul{
 	list-style-type:none;
 	display:flex;
+	cursor:pointer;
+	
 }
 .list2{
 		list-style-type:none;
 	display:flex;
 	margin-left:360px;
 	margin-top:-36.5px;
+	cursor:pointer;
 	
 }
 a{
@@ -16,9 +19,11 @@ a{
 	background-color:#6e072d;
 	font-size: 18px;
 	padding: 18px 27px;
+	cursor:pointer;
 }
 li{
 	border-right: 2px solid white;
+	cursor:pointer;
 }
 a:hover{
 	background-color:#b90e4d;
