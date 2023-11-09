@@ -3,13 +3,17 @@ ul{
 	list-style-type:none;
 	display:flex;
 	cursor:pointer;
-	
+	margin-left:32px;
+
+}
+nav{
+	display:flex;
+	justify-content:space-between;
 }
 .list2{
-		list-style-type:none;
-	display:flex;
-	margin-left:360px;
-	margin-top:-36.5px;
+		
+	margin-left:-43px;
+	
 	cursor:pointer;
 	
 }
